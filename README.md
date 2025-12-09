@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/badge/MS%20SQL-Data-FDE1FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=cc2927" />
 </p>
 
+
 ---
+
 
 ## 👨‍💻 About Me
 
@@ -25,7 +27,9 @@
 - 💬 Ask me about: `.NET`, `Web APIs`, `Angular`, `React`, `Flutter`, `SQL Server`
 - 🌱 Currently exploring: **microservices, clean architecture, real-time communication (WebSockets)**
 
+
 ---
+
 
 ## 🧩 Tech Stack & Tools
 
@@ -35,32 +39,20 @@
 
 > 💡 Also experienced with **MS SQL Server**, **REST APIs**, **Dapper**, **EF Core**, and Agile development.
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranChauhan09&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=calm&hide_border=true" alt="Karan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranChauhan09&theme=calm&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChauhan09&layout=compact&theme=calm&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
+
 
 ## 🚀 Highlighted Areas
 
 - 🏗️ **Full-Stack Development** — .NET Core + Angular/React + SQL Server  
 - 📱 **Cross-Platform Apps** — Flutter for Android, iOS, and desktop  
 - 🧪 **Clean, Testable Code** — separation of concerns, layered architecture  
-- 🤝 **Leadership** — Vice President of Placement Cell, mentoring dev interns  
+- 🤝 **Leadership** — Vice President of Placement Cell, Mentoring Dev Interns  
+
 
 ---
+
 
 ## 🤝 Let’s Connect
 
@@ -74,7 +66,9 @@
   </a>
 </p>
 
+
 ---
+
 
 ## ✨ Fun Extras
 
