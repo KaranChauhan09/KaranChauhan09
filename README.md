@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Karan%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
   <!-- Add your email here -->
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:karan021104@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-F9A8D4?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
 </p>
