@@ -40,15 +40,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karan-chauhan8502&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=calm&hide_border=true" alt="Karan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranChauhan09&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=calm&hide_border=true" alt="Karan's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-chauhan8502&theme=calm&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranChauhan09&theme=calm&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-chauhan8502&layout=compact&theme=calm&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChauhan09&layout=compact&theme=calm&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
